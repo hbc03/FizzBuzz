@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        FizzBuzz.doFizzBuzz();
+        int i = 0 ;
+        int a = FizzBuzz.doFizzBuzz(i);
 
     }
 }
